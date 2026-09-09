@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdallah Mokhtar
+# 👋 Hi, I'm Abdullah Mokhtar
 
 **Junior AI Engineer** | Building intelligent systems with **Python, TensorFlow, PyTorch, FastAPI, Streamlit, Docker** + **MLOps & Computer Vision**
 
