@@ -1,39 +1,47 @@
 # 👋 Hi, I'm Abdallah Mokhtar
 
-**Junior AI Engineer** | Building intelligent systems with **Python, TensorFlow, PyTorch, FastAPI, Streamlit, Docker** + **MLOps & Computer Vision**
+**Junior AI Engineer** — I turn models into reliable software:
+**computer vision** pipelines, **recommendation** backends, and **tabular prediction** systems.
+Currently expanding into **LLMs, RAG, and autonomous agents**.
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-| Domain | Technologies |
-|--------|--------------|
-| **Machine Learning** | TensorFlow/Keras, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy |
-| **Deep Learning** | NCF, CNNs, YOLOv8, Transfer Learning, Embeddings |
-| **Computer Vision** | OpenCV, Ultralytics YOLO, DeepSORT, Object Detection/Tracking |
-| **ML Engineering** | FastAPI, Streamlit, Docker, Model Serving, REST APIs |
-| **Data & MLOps** | SQL, MovieLens, Data Preprocessing, Model Evaluation, CI/CD |
+| Area | What I've Done |
+|------|---------------|
+| **Computer Vision** | YOLOv8 + DeepSORT vehicle detection, tracking, and speed estimation from video — real-time dashboard + CLI |
+| **Recommendation Systems** | Neural Collaborative Filtering (GMF + MLP) on MovieLens 1M — FastAPI backend + Streamlit UI, Hit Rate@10 evaluation |
+| **Tabular ML** | 7-model regression comparison (XGBoost best, R²=0.98) for calorie prediction — interactive Streamlit app |
+| **ML Engineering** | Model serving with FastAPI, Dockerized apps, evaluation pipelines (Hit Rate, NDCG), CI/CD structure |
+| **LLMs & RAG (learning)** | Exploring retrieval-augmented generation, vector search, agentic workflows, and tool use |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **[Movie Recommendation System](https://github.com/abdallah-mo/Ai-projects/tree/main/Recommendation%20System)** | `FastAPI` `Streamlit` `TensorFlow/Keras` `NCF` `MovieLens 1M` `Docker` | Neural Collaborative Filtering (GMF + MLP), REST API + interactive UI, Hit Rate@10 optimization |
-| **[Smart Traffic Analyzer](https://github.com/abdallah-mo/Ai-projects/tree/main/smart-traffic-analyzer)** | `YOLOv8` `DeepSORT` `OpenCV` `Streamlit` `Python` | Real-time vehicle detection/tracking/counting/speed estimation, interactive dashboard, CSV export |
-| **[Calories Burnt Prediction](https://github.com/abdallah-mo/Ai-projects/tree/main/Regression%20Projects)** | `Streamlit` `XGBoost` `Scikit-learn` `Pandas` | 7 regression models compared, interactive prediction UI, cross-validation analysis |
+| Project | Approach | Highlights |
+|---------|----------|------------|
+| **[Movie Recommendation System](https://github.com/abdallah-mo/Ai-projects/tree/main/Recommendation%20System)** | Neural Collaborative Filtering — GMF + MLP fusion; trained on MovieLens 1M | FastAPI REST API + Streamlit UI · Hit Rate@10 evaluation · Docker-ready |
+| **[Smart Traffic Analyzer](https://github.com/abdallah-mo/Ai-projects/tree/main/smart-traffic-analyzer)** | YOLOv8 detection → DeepSORT tracking → virtual-line counting → speed estimation (pixels-to-m calibration) | Real-time annotated video · per-class counts · CSV export · Streamlit dashboard + CLI |
+| **[Calories Burnt Prediction](https://github.com/abdallah-mo/Ai-projects/tree/main/Regression%20Projects)** | 7 regression models compared; XGBoost best (R²=0.98, RMSE=3.5); cross-validation | Multi-page Streamlit app · data exploration · training · prediction · performance view · XGBoost + Scikit-learn |
 
-> 🔍 **All projects include:** Professional README, Docker support, tests, CI/CD ready
+> All projects are self-contained with structured READMEs and reproducible setup.
 
 ---
 
 ## 📈 Current Focus
 
-- 🧠 **Advanced Deep Learning** — Transformers, LLMs, Multi-modal models
-- 👁️ **Computer Vision** — YOLOv11, SAM, Video understanding, Real-time inference
-- ⚙️ **MLOps & Production** — Model deployment, Monitoring, Feature stores, Kubeflow/MLflow
-- 📊 **Recommendation Systems** — Two-tower models, Retrieval + Ranking, Large-scale embedding
+- 🧠 **LLMs & RAG** — retrieval-augmented generation, vector embeddings, chunking strategies, evaluation
+- 🤖 **Autonomous Agents** — tool use, planning loops, multi-step reasoning
+- 👁️ **Computer Vision** — YOLOv11, SAM, video understanding, real-time edge inference
+- ⚙️ **MLOps** — model packaging, monitoring, reproducible training, CI for ML
+
+---
+
+## 🛠️ Stack
+
+Python · TensorFlow/Keras · PyTorch · Scikit-learn · XGBoost · OpenCV · Ultralytics YOLO · DeepSORT · FastAPI · Streamlit · Docker · PostgreSQL · Zod · Vitest · GitHub Actions
 
 ---
 
@@ -52,4 +60,4 @@
 
 ---
 
-> *"Code is not just syntax — it's solving problems with clarity and craft."*
+🏡 Mansoura, Egypt · Open to AI/ML roles
