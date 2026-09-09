@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdallah Mokhtar
 
-**Junior AI Engineer → Fullstack Developer** | Building intelligent web apps with **React, Node.js, Next.js, TypeScript** + **Python (FastAPI, TensorFlow, PyTorch)**
+**Junior AI Engineer** | Building intelligent systems with **Python, TensorFlow, PyTorch, FastAPI, Streamlit, Docker** + **MLOps & Computer Vision**
 
 ---
 
@@ -8,11 +8,11 @@
 
 | Domain | Technologies |
 |--------|--------------|
-| **Frontend** | React 18, Next.js 14, TypeScript, Tailwind CSS, Zustand |
-| **Backend** | Node.js (Express/NestJS), FastAPI, PostgreSQL, Redis, Docker |
-| **ML/AI** | TensorFlow/Keras, PyTorch, Scikit-learn, ONNX.js, TensorFlow.js |
-| **DevOps** | GitHub Actions, Docker, AWS (EC2, S3, RDS), CI/CD pipelines |
-| **Data** | Pandas, NumPy, SQL, MovieLens, OpenCV, YOLOv8 |
+| **Machine Learning** | TensorFlow/Keras, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy |
+| **Deep Learning** | NCF, CNNs, YOLOv8, Transfer Learning, Embeddings |
+| **Computer Vision** | OpenCV, Ultralytics YOLO, DeepSORT, Object Detection/Tracking |
+| **ML Engineering** | FastAPI, Streamlit, Docker, Model Serving, REST APIs |
+| **Data & MLOps** | SQL, MovieLens, Data Preprocessing, Model Evaluation, CI/CD |
 
 ---
 
@@ -30,9 +30,10 @@
 
 ## 📈 Current Focus
 
-- 🔄 **Transitioning to Fullstack** — Building production-grade Next.js/Node apps
-- 🧠 **ML in the Browser** — Exploring TensorFlow.js / ONNX.js for client-side inference
-- ☁️ **Cloud-Native** — AWS, containerization, scalable architectures
+- 🧠 **Advanced Deep Learning** — Transformers, LLMs, Multi-modal models
+- 👁️ **Computer Vision** — YOLOv11, SAM, Video understanding, Real-time inference
+- ⚙️ **MLOps & Production** — Model deployment, Monitoring, Feature stores, Kubeflow/MLflow
+- 📊 **Recommendation Systems** — Two-tower models, Retrieval + Ranking, Large-scale embedding
 
 ---
 
