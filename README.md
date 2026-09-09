@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdallah Mokhtar
+# 👋 Hi, I'm Abdullah Mokhtar
 
 **Junior AI Engineer** — I turn models into reliable software:
 **computer vision** pipelines, **recommendation** backends, and **tabular prediction** systems.
